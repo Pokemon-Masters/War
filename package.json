@@ -1,0 +1,49 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "pokemon war",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "webpack": "./node_modules/.bin/webpack -w",
+    "wds": "webpack-dev-server --config ./webpack.config.js -w",
+    "test": "export NODE_ENV=test && mocha --timeout 8000 test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmw1493/FitFlow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "expect": "^22.4.0",
+    "express": "^4.12.3",
+    "moment": "^2.20.1",
+    "mongodb": "^3.0.2",
+    "mongoose": "^5.0.6",
+    "npm": "^5.7.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "chai": "^4.1.2",
+    "css-loader": "^0.28.7",
+    "isomorphic-fetch": "^2.2.1",
+    "mocha": "^5.0.1",
+    "react-devtools": "^3.1.0",
+    "redux-devtools-extension": "^2.13.2",
+    "style-loader": "^0.20.2",
+    "supertest": "^3.0.0",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
