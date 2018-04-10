@@ -14,7 +14,7 @@ sequelize
     console.error('error with connection: ', err);
   });
 
-app.get('/', scraper);
+app.get('/', scraper.runScrapeMain, scraper.runScrapePhoto);
 
 app.listen(3000, () => {console.log('server is running on port 3000')});
 
