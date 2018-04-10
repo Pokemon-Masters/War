@@ -10,7 +10,6 @@ const scrapeController = {
       let pokemonArr = [];
       parsedHTML('.infocard-tall').each((index, pokemon) => {
         let name = $(pokemon).children('.ent-name').text();
-        let level = Math.floor(Math.random() * 13) + 1;
         let type = $(pokemon).children('.aside').children('.itype').map((i, child) => {
           return $(child).text();
         }).get();
@@ -24,7 +23,6 @@ const scrapeController = {
             let photo = parsedHTMLTwo('.figure').children('img').first().attr('src');
             let pokemonObj = {
               name: name,
-              level: level,
               type: type,
               photo: photo
             }
