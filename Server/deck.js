@@ -1,4 +1,4 @@
-const dbController = {
+const deckController = {
   generateDeck: (req, res) => {
     const deck = [];
     let count = 0;
@@ -15,4 +15,4 @@ const dbController = {
     res.json(deck);
   }
 }
-module.exports = dbController;
+module.exports = deck;Controller

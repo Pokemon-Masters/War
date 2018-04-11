@@ -1,21 +1,21 @@
 const express = require('express');
 const app = express();
+const path = require('path');
 // const scrapeController = require('./scraper');
 const Sequelize = require('sequelize');
-const scrapeController = require('./scraper3');
-const dbController = require('./db');
-const uri = 'postgres://udeyhfsk:vgeewt-ITqXsidtAxEZd7rBqtkPT8CZ0@baasu.db.elephantsql.com:5432/udeyhfsk';
+const scrapeController = require('./scraper');
+const deckController = require('./deck');
 
-// const sequelize = new Sequelize(uri, 'udeyhfsk', 'vgeewt-ITqXsidtAxEZd7rBqtkPT8CZ0');
+const sequelize = new Sequelize('postgres://udeyhfsk:vgeewt-ITqXsidtAxEZd7rBqtkPT8CZ0@baasu.db.elephantsql.com:5432/udeyhfsk');
 
-// sequelize
-//   .authenticate()
-//   .then(() => {
-//     console.log('successful connection');
-//   })
-//   .catch((err) => {
-//     console.error('error with connection: ', err);
-//   });
+sequelize
+ .authenticate()
+ .then(() => {
+   console.log('successful connection');
+ })
+ .catch((err) => {
+   console.error('error with connection: ', err);
+ });
 
   // app.use(...)
   
@@ -23,9 +23,9 @@ app.get('/', (req, res) => {
   // res.render('...index')
 }); 
 
-app.get('/scrape', scrapeController.getPokemon, scrapeController.getUrls);
+// app.get('/scrape', scrapeController.getPokemon, scrapeController.getUrls);
 
-app.get('/generate-deck', dbController.generateDeck);
+app.get('/generate-deck', deckController.generateDeck);
 
 // app.get('/', scrapeController.runScrapeMain, scrapeController.runScrapePhoto);
 // app.get('/', scraper.runScrapeMain);
