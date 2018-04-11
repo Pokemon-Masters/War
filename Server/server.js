@@ -4,7 +4,7 @@ const path = require('path');
 // const scrapeController = require('./scraper');
 const Sequelize = require('sequelize');
 const scrapeController = require('./scraper');
-const deckController = require('./deck');
+// const dbController = require('./db');
 
 const sequelize = new Sequelize('postgres://udeyhfsk:vgeewt-ITqXsidtAxEZd7rBqtkPT8CZ0@baasu.db.elephantsql.com:5432/udeyhfsk');
 
@@ -17,18 +17,19 @@ sequelize
    console.error('error with connection: ', err);
  });
 
-  // app.use(...)
-  
+ app.use(express.static(path.join(__dirname,'..','/dist')))
+ 
 app.get('/', (req, res) => {
-  // res.render('...index')
-}); 
+    res.render('index.html');
+});
 
-// app.get('/scrape', scrapeController.getPokemon, scrapeController.getUrls);
+app.get('/scrape', scrapeController.runScrapeMain, (req, res) => {
+  res.end();
+});
 
-app.get('/generate-deck', deckController.generateDeck);
+// app.get('/generate-deck', dbController.generateDeck);
 
 // app.get('/', scrapeController.runScrapeMain, scrapeController.runScrapePhoto);
-// app.get('/', scraper.runScrapeMain);
 
 app.listen(3000, () => {console.log('server is running on port 3000')});
 

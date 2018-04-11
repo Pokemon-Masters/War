@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import GameBoard from './GameBoard.jsx';
 
 class App extends Component {
     constructor() {
@@ -10,6 +11,7 @@ class App extends Component {
         return (
             <div>
                 <p>Hello World</p>
+                <GameBoard />
             </div>
         )
     }

@@ -7,11 +7,6 @@ module.exports = {
         path: path.resolve(__dirname, "dist"),
         filename: "bundle.js",
     },
-    devServer: {
-        contentBase: path.join(__dirname, "dist"),
-        compress: true,
-        port: 9000
-    },
     module: {
         rules: [
             {
@@ -22,7 +17,7 @@ module.exports = {
                 },
             },
             {
-              test: /\.scss$/,
+              test: /\.css$/,
               use: [
                 {
                   loader: "style-loader"
