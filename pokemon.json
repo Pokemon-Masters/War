@@ -1,0 +1,6056 @@
+[
+    {
+        "name": "Bulbasaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bulbasaur"
+    },
+    {
+        "name": "Ivysaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ivysaur"
+    },
+    {
+        "name": "Venusaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/venusaur"
+    },
+    {
+        "name": "Charmander",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/charmander"
+    },
+    {
+        "name": "Charmeleon",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/charmeleon"
+    },
+    {
+        "name": "Charizard",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/charizard"
+    },
+    {
+        "name": "Squirtle",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/squirtle"
+    },
+    {
+        "name": "Wartortle",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wartortle"
+    },
+    {
+        "name": "Blastoise",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/blastoise"
+    },
+    {
+        "name": "Caterpie",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/caterpie"
+    },
+    {
+        "name": "Metapod",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/metapod"
+    },
+    {
+        "name": "Butterfree",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/butterfree"
+    },
+    {
+        "name": "Weedle",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/weedle"
+    },
+    {
+        "name": "Kakuna",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kakuna"
+    },
+    {
+        "name": "Beedrill",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/beedrill"
+    },
+    {
+        "name": "Pidgey",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pidgey"
+    },
+    {
+        "name": "Pidgeotto",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pidgeotto"
+    },
+    {
+        "name": "Pidgeot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pidgeot"
+    },
+    {
+        "name": "Rattata",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rattata"
+    },
+    {
+        "name": "Raticate",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/raticate"
+    },
+    {
+        "name": "Spearow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/spearow"
+    },
+    {
+        "name": "Fearow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/fearow"
+    },
+    {
+        "name": "Ekans",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ekans"
+    },
+    {
+        "name": "Arbok",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/arbok"
+    },
+    {
+        "name": "Pikachu",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pikachu"
+    },
+    {
+        "name": "Raichu",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/raichu"
+    },
+    {
+        "name": "Sandshrew",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sandshrew"
+    },
+    {
+        "name": "Sandslash",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sandslash"
+    },
+    {
+        "name": "Nidoran♀",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/nidoran-f"
+    },
+    {
+        "name": "Nidorina",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/nidorina"
+    },
+    {
+        "name": "Nidoqueen",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/nidoqueen"
+    },
+    {
+        "name": "Nidoran♂",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/nidoran-m"
+    },
+    {
+        "name": "Nidorino",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/nidorino"
+    },
+    {
+        "name": "Nidoking",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/nidoking"
+    },
+    {
+        "name": "Clefairy",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/clefairy"
+    },
+    {
+        "name": "Clefable",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/clefable"
+    },
+    {
+        "name": "Vulpix",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vulpix"
+    },
+    {
+        "name": "Ninetales",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ninetales"
+    },
+    {
+        "name": "Jigglypuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/jigglypuff"
+    },
+    {
+        "name": "Wigglytuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wigglytuff"
+    },
+    {
+        "name": "Zubat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zubat"
+    },
+    {
+        "name": "Golbat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/golbat"
+    },
+    {
+        "name": "Oddish",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/oddish"
+    },
+    {
+        "name": "Gloom",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gloom"
+    },
+    {
+        "name": "Vileplume",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vileplume"
+    },
+    {
+        "name": "Paras",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/paras"
+    },
+    {
+        "name": "Parasect",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/parasect"
+    },
+    {
+        "name": "Venonat",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/venonat"
+    },
+    {
+        "name": "Venomoth",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/venomoth"
+    },
+    {
+        "name": "Diglett",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/diglett"
+    },
+    {
+        "name": "Dugtrio",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dugtrio"
+    },
+    {
+        "name": "Meowth",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/meowth"
+    },
+    {
+        "name": "Persian",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/persian"
+    },
+    {
+        "name": "Psyduck",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/psyduck"
+    },
+    {
+        "name": "Golduck",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/golduck"
+    },
+    {
+        "name": "Mankey",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mankey"
+    },
+    {
+        "name": "Primeape",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/primeape"
+    },
+    {
+        "name": "Growlithe",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/growlithe"
+    },
+    {
+        "name": "Arcanine",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/arcanine"
+    },
+    {
+        "name": "Poliwag",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/poliwag"
+    },
+    {
+        "name": "Poliwhirl",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/poliwhirl"
+    },
+    {
+        "name": "Poliwrath",
+        "type": [
+            "Water",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/poliwrath"
+    },
+    {
+        "name": "Abra",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/abra"
+    },
+    {
+        "name": "Kadabra",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kadabra"
+    },
+    {
+        "name": "Alakazam",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/alakazam"
+    },
+    {
+        "name": "Machop",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/machop"
+    },
+    {
+        "name": "Machoke",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/machoke"
+    },
+    {
+        "name": "Machamp",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/machamp"
+    },
+    {
+        "name": "Bellsprout",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bellsprout"
+    },
+    {
+        "name": "Weepinbell",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/weepinbell"
+    },
+    {
+        "name": "Victreebel",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/victreebel"
+    },
+    {
+        "name": "Tentacool",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tentacool"
+    },
+    {
+        "name": "Tentacruel",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tentacruel"
+    },
+    {
+        "name": "Geodude",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/geodude"
+    },
+    {
+        "name": "Graveler",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/graveler"
+    },
+    {
+        "name": "Golem",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/golem"
+    },
+    {
+        "name": "Ponyta",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ponyta"
+    },
+    {
+        "name": "Rapidash",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rapidash"
+    },
+    {
+        "name": "Slowpoke",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/slowpoke"
+    },
+    {
+        "name": "Slowbro",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/slowbro"
+    },
+    {
+        "name": "Magnemite",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/magnemite"
+    },
+    {
+        "name": "Magneton",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/magneton"
+    },
+    {
+        "name": "Farfetch'd",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/farfetchd"
+    },
+    {
+        "name": "Doduo",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/doduo"
+    },
+    {
+        "name": "Dodrio",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dodrio"
+    },
+    {
+        "name": "Seel",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/seel"
+    },
+    {
+        "name": "Dewgong",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dewgong"
+    },
+    {
+        "name": "Grimer",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/grimer"
+    },
+    {
+        "name": "Muk",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/muk"
+    },
+    {
+        "name": "Shellder",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shellder"
+    },
+    {
+        "name": "Cloyster",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cloyster"
+    },
+    {
+        "name": "Gastly",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gastly"
+    },
+    {
+        "name": "Haunter",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/haunter"
+    },
+    {
+        "name": "Gengar",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gengar"
+    },
+    {
+        "name": "Onix",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/onix"
+    },
+    {
+        "name": "Drowzee",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/drowzee"
+    },
+    {
+        "name": "Hypno",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hypno"
+    },
+    {
+        "name": "Krabby",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/krabby"
+    },
+    {
+        "name": "Kingler",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kingler"
+    },
+    {
+        "name": "Voltorb",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/voltorb"
+    },
+    {
+        "name": "Electrode",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/electrode"
+    },
+    {
+        "name": "Exeggcute",
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/exeggcute"
+    },
+    {
+        "name": "Exeggutor",
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/exeggutor"
+    },
+    {
+        "name": "Cubone",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cubone"
+    },
+    {
+        "name": "Marowak",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/marowak"
+    },
+    {
+        "name": "Hitmonlee",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hitmonlee"
+    },
+    {
+        "name": "Hitmonchan",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hitmonchan"
+    },
+    {
+        "name": "Lickitung",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lickitung"
+    },
+    {
+        "name": "Koffing",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/koffing"
+    },
+    {
+        "name": "Weezing",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/weezing"
+    },
+    {
+        "name": "Rhyhorn",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rhyhorn"
+    },
+    {
+        "name": "Rhydon",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rhydon"
+    },
+    {
+        "name": "Chansey",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/chansey"
+    },
+    {
+        "name": "Tangela",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tangela"
+    },
+    {
+        "name": "Kangaskhan",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kangaskhan"
+    },
+    {
+        "name": "Horsea",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/horsea"
+    },
+    {
+        "name": "Seadra",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/seadra"
+    },
+    {
+        "name": "Goldeen",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/goldeen"
+    },
+    {
+        "name": "Seaking",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/seaking"
+    },
+    {
+        "name": "Staryu",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/staryu"
+    },
+    {
+        "name": "Starmie",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/starmie"
+    },
+    {
+        "name": "Mr. Mime",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mr-mime"
+    },
+    {
+        "name": "Scyther",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/scyther"
+    },
+    {
+        "name": "Jynx",
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/jynx"
+    },
+    {
+        "name": "Electabuzz",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/electabuzz"
+    },
+    {
+        "name": "Magmar",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/magmar"
+    },
+    {
+        "name": "Pinsir",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pinsir"
+    },
+    {
+        "name": "Tauros",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tauros"
+    },
+    {
+        "name": "Magikarp",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/magikarp"
+    },
+    {
+        "name": "Gyarados",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gyarados"
+    },
+    {
+        "name": "Lapras",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lapras"
+    },
+    {
+        "name": "Ditto",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ditto"
+    },
+    {
+        "name": "Eevee",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/eevee"
+    },
+    {
+        "name": "Vaporeon",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vaporeon"
+    },
+    {
+        "name": "Jolteon",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/jolteon"
+    },
+    {
+        "name": "Flareon",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/flareon"
+    },
+    {
+        "name": "Porygon",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/porygon"
+    },
+    {
+        "name": "Omanyte",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/omanyte"
+    },
+    {
+        "name": "Omastar",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/omastar"
+    },
+    {
+        "name": "Kabuto",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kabuto"
+    },
+    {
+        "name": "Kabutops",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kabutops"
+    },
+    {
+        "name": "Aerodactyl",
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/aerodactyl"
+    },
+    {
+        "name": "Snorlax",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/snorlax"
+    },
+    {
+        "name": "Articuno",
+        "type": [
+            "Ice",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/articuno"
+    },
+    {
+        "name": "Zapdos",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zapdos"
+    },
+    {
+        "name": "Moltres",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/moltres"
+    },
+    {
+        "name": "Dratini",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dratini"
+    },
+    {
+        "name": "Dragonair",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dragonair"
+    },
+    {
+        "name": "Dragonite",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dragonite"
+    },
+    {
+        "name": "Mewtwo",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mewtwo"
+    },
+    {
+        "name": "Mew",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mew"
+    },
+    {
+        "name": "Chikorita",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/chikorita"
+    },
+    {
+        "name": "Bayleef",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bayleef"
+    },
+    {
+        "name": "Meganium",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/meganium"
+    },
+    {
+        "name": "Cyndaquil",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cyndaquil"
+    },
+    {
+        "name": "Quilava",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/quilava"
+    },
+    {
+        "name": "Typhlosion",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/typhlosion"
+    },
+    {
+        "name": "Totodile",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/totodile"
+    },
+    {
+        "name": "Croconaw",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/croconaw"
+    },
+    {
+        "name": "Feraligatr",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/feraligatr"
+    },
+    {
+        "name": "Sentret",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sentret"
+    },
+    {
+        "name": "Furret",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/furret"
+    },
+    {
+        "name": "Hoothoot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hoothoot"
+    },
+    {
+        "name": "Noctowl",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/noctowl"
+    },
+    {
+        "name": "Ledyba",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ledyba"
+    },
+    {
+        "name": "Ledian",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ledian"
+    },
+    {
+        "name": "Spinarak",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/spinarak"
+    },
+    {
+        "name": "Ariados",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ariados"
+    },
+    {
+        "name": "Crobat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/crobat"
+    },
+    {
+        "name": "Chinchou",
+        "type": [
+            "Water",
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/chinchou"
+    },
+    {
+        "name": "Lanturn",
+        "type": [
+            "Water",
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lanturn"
+    },
+    {
+        "name": "Pichu",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pichu"
+    },
+    {
+        "name": "Cleffa",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cleffa"
+    },
+    {
+        "name": "Igglybuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/igglybuff"
+    },
+    {
+        "name": "Togepi",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/togepi"
+    },
+    {
+        "name": "Togetic",
+        "type": [
+            "Fairy",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/togetic"
+    },
+    {
+        "name": "Natu",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/natu"
+    },
+    {
+        "name": "Xatu",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/xatu"
+    },
+    {
+        "name": "Mareep",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mareep"
+    },
+    {
+        "name": "Flaaffy",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/flaaffy"
+    },
+    {
+        "name": "Ampharos",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ampharos"
+    },
+    {
+        "name": "Bellossom",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bellossom"
+    },
+    {
+        "name": "Marill",
+        "type": [
+            "Water",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/marill"
+    },
+    {
+        "name": "Azumarill",
+        "type": [
+            "Water",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/azumarill"
+    },
+    {
+        "name": "Sudowoodo",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sudowoodo"
+    },
+    {
+        "name": "Politoed",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/politoed"
+    },
+    {
+        "name": "Hoppip",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hoppip"
+    },
+    {
+        "name": "Skiploom",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/skiploom"
+    },
+    {
+        "name": "Jumpluff",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/jumpluff"
+    },
+    {
+        "name": "Aipom",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/aipom"
+    },
+    {
+        "name": "Sunkern",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sunkern"
+    },
+    {
+        "name": "Sunflora",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sunflora"
+    },
+    {
+        "name": "Yanma",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/yanma"
+    },
+    {
+        "name": "Wooper",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wooper"
+    },
+    {
+        "name": "Quagsire",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/quagsire"
+    },
+    {
+        "name": "Espeon",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/espeon"
+    },
+    {
+        "name": "Umbreon",
+        "type": [
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/umbreon"
+    },
+    {
+        "name": "Murkrow",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/murkrow"
+    },
+    {
+        "name": "Slowking",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/slowking"
+    },
+    {
+        "name": "Misdreavus",
+        "type": [
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/misdreavus"
+    },
+    {
+        "name": "Unown",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/unown"
+    },
+    {
+        "name": "Wobbuffet",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wobbuffet"
+    },
+    {
+        "name": "Girafarig",
+        "type": [
+            "Normal",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/girafarig"
+    },
+    {
+        "name": "Pineco",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pineco"
+    },
+    {
+        "name": "Forretress",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/forretress"
+    },
+    {
+        "name": "Dunsparce",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dunsparce"
+    },
+    {
+        "name": "Gligar",
+        "type": [
+            "Ground",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gligar"
+    },
+    {
+        "name": "Steelix",
+        "type": [
+            "Steel",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/steelix"
+    },
+    {
+        "name": "Snubbull",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/snubbull"
+    },
+    {
+        "name": "Granbull",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/granbull"
+    },
+    {
+        "name": "Qwilfish",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/qwilfish"
+    },
+    {
+        "name": "Scizor",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/scizor"
+    },
+    {
+        "name": "Shuckle",
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shuckle"
+    },
+    {
+        "name": "Heracross",
+        "type": [
+            "Bug",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/heracross"
+    },
+    {
+        "name": "Sneasel",
+        "type": [
+            "Dark",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sneasel"
+    },
+    {
+        "name": "Teddiursa",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/teddiursa"
+    },
+    {
+        "name": "Ursaring",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ursaring"
+    },
+    {
+        "name": "Slugma",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/slugma"
+    },
+    {
+        "name": "Magcargo",
+        "type": [
+            "Fire",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/magcargo"
+    },
+    {
+        "name": "Swinub",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/swinub"
+    },
+    {
+        "name": "Piloswine",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/piloswine"
+    },
+    {
+        "name": "Corsola",
+        "type": [
+            "Water",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/corsola"
+    },
+    {
+        "name": "Remoraid",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/remoraid"
+    },
+    {
+        "name": "Octillery",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/octillery"
+    },
+    {
+        "name": "Delibird",
+        "type": [
+            "Ice",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/delibird"
+    },
+    {
+        "name": "Mantine",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mantine"
+    },
+    {
+        "name": "Skarmory",
+        "type": [
+            "Steel",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/skarmory"
+    },
+    {
+        "name": "Houndour",
+        "type": [
+            "Dark",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/houndour"
+    },
+    {
+        "name": "Houndoom",
+        "type": [
+            "Dark",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/houndoom"
+    },
+    {
+        "name": "Kingdra",
+        "type": [
+            "Water",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kingdra"
+    },
+    {
+        "name": "Phanpy",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/phanpy"
+    },
+    {
+        "name": "Donphan",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/donphan"
+    },
+    {
+        "name": "Porygon2",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/porygon2"
+    },
+    {
+        "name": "Stantler",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/stantler"
+    },
+    {
+        "name": "Smeargle",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/smeargle"
+    },
+    {
+        "name": "Tyrogue",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tyrogue"
+    },
+    {
+        "name": "Hitmontop",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hitmontop"
+    },
+    {
+        "name": "Smoochum",
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/smoochum"
+    },
+    {
+        "name": "Elekid",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/elekid"
+    },
+    {
+        "name": "Magby",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/magby"
+    },
+    {
+        "name": "Miltank",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/miltank"
+    },
+    {
+        "name": "Blissey",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/blissey"
+    },
+    {
+        "name": "Raikou",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/raikou"
+    },
+    {
+        "name": "Entei",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/entei"
+    },
+    {
+        "name": "Suicune",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/suicune"
+    },
+    {
+        "name": "Larvitar",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/larvitar"
+    },
+    {
+        "name": "Pupitar",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pupitar"
+    },
+    {
+        "name": "Tyranitar",
+        "type": [
+            "Rock",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tyranitar"
+    },
+    {
+        "name": "Lugia",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lugia"
+    },
+    {
+        "name": "Ho-oh",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ho-oh"
+    },
+    {
+        "name": "Celebi",
+        "type": [
+            "Psychic",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/celebi"
+    },
+    {
+        "name": "Treecko",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/treecko"
+    },
+    {
+        "name": "Grovyle",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/grovyle"
+    },
+    {
+        "name": "Sceptile",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sceptile"
+    },
+    {
+        "name": "Torchic",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/torchic"
+    },
+    {
+        "name": "Combusken",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/combusken"
+    },
+    {
+        "name": "Blaziken",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/blaziken"
+    },
+    {
+        "name": "Mudkip",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mudkip"
+    },
+    {
+        "name": "Marshtomp",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/marshtomp"
+    },
+    {
+        "name": "Swampert",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/swampert"
+    },
+    {
+        "name": "Poochyena",
+        "type": [
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/poochyena"
+    },
+    {
+        "name": "Mightyena",
+        "type": [
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mightyena"
+    },
+    {
+        "name": "Zigzagoon",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zigzagoon"
+    },
+    {
+        "name": "Linoone",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/linoone"
+    },
+    {
+        "name": "Wurmple",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wurmple"
+    },
+    {
+        "name": "Silcoon",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/silcoon"
+    },
+    {
+        "name": "Beautifly",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/beautifly"
+    },
+    {
+        "name": "Cascoon",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cascoon"
+    },
+    {
+        "name": "Dustox",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dustox"
+    },
+    {
+        "name": "Lotad",
+        "type": [
+            "Water",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lotad"
+    },
+    {
+        "name": "Lombre",
+        "type": [
+            "Water",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lombre"
+    },
+    {
+        "name": "Ludicolo",
+        "type": [
+            "Water",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ludicolo"
+    },
+    {
+        "name": "Seedot",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/seedot"
+    },
+    {
+        "name": "Nuzleaf",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/nuzleaf"
+    },
+    {
+        "name": "Shiftry",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shiftry"
+    },
+    {
+        "name": "Taillow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/taillow"
+    },
+    {
+        "name": "Swellow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/swellow"
+    },
+    {
+        "name": "Wingull",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wingull"
+    },
+    {
+        "name": "Pelipper",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pelipper"
+    },
+    {
+        "name": "Ralts",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ralts"
+    },
+    {
+        "name": "Kirlia",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kirlia"
+    },
+    {
+        "name": "Gardevoir",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gardevoir"
+    },
+    {
+        "name": "Surskit",
+        "type": [
+            "Bug",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/surskit"
+    },
+    {
+        "name": "Masquerain",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/masquerain"
+    },
+    {
+        "name": "Shroomish",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shroomish"
+    },
+    {
+        "name": "Breloom",
+        "type": [
+            "Grass",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/breloom"
+    },
+    {
+        "name": "Slakoth",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/slakoth"
+    },
+    {
+        "name": "Vigoroth",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vigoroth"
+    },
+    {
+        "name": "Slaking",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/slaking"
+    },
+    {
+        "name": "Nincada",
+        "type": [
+            "Bug",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/nincada"
+    },
+    {
+        "name": "Ninjask",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ninjask"
+    },
+    {
+        "name": "Shedinja",
+        "type": [
+            "Bug",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shedinja"
+    },
+    {
+        "name": "Whismur",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/whismur"
+    },
+    {
+        "name": "Loudred",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/loudred"
+    },
+    {
+        "name": "Exploud",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/exploud"
+    },
+    {
+        "name": "Makuhita",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/makuhita"
+    },
+    {
+        "name": "Hariyama",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hariyama"
+    },
+    {
+        "name": "Azurill",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/azurill"
+    },
+    {
+        "name": "Nosepass",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/nosepass"
+    },
+    {
+        "name": "Skitty",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/skitty"
+    },
+    {
+        "name": "Delcatty",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/delcatty"
+    },
+    {
+        "name": "Sableye",
+        "type": [
+            "Dark",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sableye"
+    },
+    {
+        "name": "Mawile",
+        "type": [
+            "Steel",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mawile"
+    },
+    {
+        "name": "Aron",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/aron"
+    },
+    {
+        "name": "Lairon",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lairon"
+    },
+    {
+        "name": "Aggron",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/aggron"
+    },
+    {
+        "name": "Meditite",
+        "type": [
+            "Fighting",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/meditite"
+    },
+    {
+        "name": "Medicham",
+        "type": [
+            "Fighting",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/medicham"
+    },
+    {
+        "name": "Electrike",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/electrike"
+    },
+    {
+        "name": "Manectric",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/manectric"
+    },
+    {
+        "name": "Plusle",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/plusle"
+    },
+    {
+        "name": "Minun",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/minun"
+    },
+    {
+        "name": "Volbeat",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/volbeat"
+    },
+    {
+        "name": "Illumise",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/illumise"
+    },
+    {
+        "name": "Roselia",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/roselia"
+    },
+    {
+        "name": "Gulpin",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gulpin"
+    },
+    {
+        "name": "Swalot",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/swalot"
+    },
+    {
+        "name": "Carvanha",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/carvanha"
+    },
+    {
+        "name": "Sharpedo",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sharpedo"
+    },
+    {
+        "name": "Wailmer",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wailmer"
+    },
+    {
+        "name": "Wailord",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wailord"
+    },
+    {
+        "name": "Numel",
+        "type": [
+            "Fire",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/numel"
+    },
+    {
+        "name": "Camerupt",
+        "type": [
+            "Fire",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/camerupt"
+    },
+    {
+        "name": "Torkoal",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/torkoal"
+    },
+    {
+        "name": "Spoink",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/spoink"
+    },
+    {
+        "name": "Grumpig",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/grumpig"
+    },
+    {
+        "name": "Spinda",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/spinda"
+    },
+    {
+        "name": "Trapinch",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/trapinch"
+    },
+    {
+        "name": "Vibrava",
+        "type": [
+            "Ground",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vibrava"
+    },
+    {
+        "name": "Flygon",
+        "type": [
+            "Ground",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/flygon"
+    },
+    {
+        "name": "Cacnea",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cacnea"
+    },
+    {
+        "name": "Cacturne",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cacturne"
+    },
+    {
+        "name": "Swablu",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/swablu"
+    },
+    {
+        "name": "Altaria",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/altaria"
+    },
+    {
+        "name": "Zangoose",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zangoose"
+    },
+    {
+        "name": "Seviper",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/seviper"
+    },
+    {
+        "name": "Lunatone",
+        "type": [
+            "Rock",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lunatone"
+    },
+    {
+        "name": "Solrock",
+        "type": [
+            "Rock",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/solrock"
+    },
+    {
+        "name": "Barboach",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/barboach"
+    },
+    {
+        "name": "Whiscash",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/whiscash"
+    },
+    {
+        "name": "Corphish",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/corphish"
+    },
+    {
+        "name": "Crawdaunt",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/crawdaunt"
+    },
+    {
+        "name": "Baltoy",
+        "type": [
+            "Ground",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/baltoy"
+    },
+    {
+        "name": "Claydol",
+        "type": [
+            "Ground",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/claydol"
+    },
+    {
+        "name": "Lileep",
+        "type": [
+            "Rock",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lileep"
+    },
+    {
+        "name": "Cradily",
+        "type": [
+            "Rock",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cradily"
+    },
+    {
+        "name": "Anorith",
+        "type": [
+            "Rock",
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/anorith"
+    },
+    {
+        "name": "Armaldo",
+        "type": [
+            "Rock",
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/armaldo"
+    },
+    {
+        "name": "Feebas",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/feebas"
+    },
+    {
+        "name": "Milotic",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/milotic"
+    },
+    {
+        "name": "Castform",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/castform"
+    },
+    {
+        "name": "Kecleon",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kecleon"
+    },
+    {
+        "name": "Shuppet",
+        "type": [
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shuppet"
+    },
+    {
+        "name": "Banette",
+        "type": [
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/banette"
+    },
+    {
+        "name": "Duskull",
+        "type": [
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/duskull"
+    },
+    {
+        "name": "Dusclops",
+        "type": [
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dusclops"
+    },
+    {
+        "name": "Tropius",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tropius"
+    },
+    {
+        "name": "Chimecho",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/chimecho"
+    },
+    {
+        "name": "Absol",
+        "type": [
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/absol"
+    },
+    {
+        "name": "Wynaut",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wynaut"
+    },
+    {
+        "name": "Snorunt",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/snorunt"
+    },
+    {
+        "name": "Glalie",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/glalie"
+    },
+    {
+        "name": "Spheal",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/spheal"
+    },
+    {
+        "name": "Sealeo",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sealeo"
+    },
+    {
+        "name": "Walrein",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/walrein"
+    },
+    {
+        "name": "Clamperl",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/clamperl"
+    },
+    {
+        "name": "Huntail",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/huntail"
+    },
+    {
+        "name": "Gorebyss",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gorebyss"
+    },
+    {
+        "name": "Relicanth",
+        "type": [
+            "Water",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/relicanth"
+    },
+    {
+        "name": "Luvdisc",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/luvdisc"
+    },
+    {
+        "name": "Bagon",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bagon"
+    },
+    {
+        "name": "Shelgon",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shelgon"
+    },
+    {
+        "name": "Salamence",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/salamence"
+    },
+    {
+        "name": "Beldum",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/beldum"
+    },
+    {
+        "name": "Metang",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/metang"
+    },
+    {
+        "name": "Metagross",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/metagross"
+    },
+    {
+        "name": "Regirock",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/regirock"
+    },
+    {
+        "name": "Regice",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/regice"
+    },
+    {
+        "name": "Registeel",
+        "type": [
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/registeel"
+    },
+    {
+        "name": "Latias",
+        "type": [
+            "Dragon",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/latias"
+    },
+    {
+        "name": "Latios",
+        "type": [
+            "Dragon",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/latios"
+    },
+    {
+        "name": "Kyogre",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kyogre"
+    },
+    {
+        "name": "Groudon",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/groudon"
+    },
+    {
+        "name": "Rayquaza",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rayquaza"
+    },
+    {
+        "name": "Jirachi",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/jirachi"
+    },
+    {
+        "name": "Deoxys",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/deoxys"
+    },
+    {
+        "name": "Turtwig",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/turtwig"
+    },
+    {
+        "name": "Grotle",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/grotle"
+    },
+    {
+        "name": "Torterra",
+        "type": [
+            "Grass",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/torterra"
+    },
+    {
+        "name": "Chimchar",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/chimchar"
+    },
+    {
+        "name": "Monferno",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/monferno"
+    },
+    {
+        "name": "Infernape",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/infernape"
+    },
+    {
+        "name": "Piplup",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/piplup"
+    },
+    {
+        "name": "Prinplup",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/prinplup"
+    },
+    {
+        "name": "Empoleon",
+        "type": [
+            "Water",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/empoleon"
+    },
+    {
+        "name": "Starly",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/starly"
+    },
+    {
+        "name": "Staravia",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/staravia"
+    },
+    {
+        "name": "Staraptor",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/staraptor"
+    },
+    {
+        "name": "Bidoof",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bidoof"
+    },
+    {
+        "name": "Bibarel",
+        "type": [
+            "Normal",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bibarel"
+    },
+    {
+        "name": "Kricketot",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kricketot"
+    },
+    {
+        "name": "Kricketune",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kricketune"
+    },
+    {
+        "name": "Shinx",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shinx"
+    },
+    {
+        "name": "Luxio",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/luxio"
+    },
+    {
+        "name": "Luxray",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/luxray"
+    },
+    {
+        "name": "Budew",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/budew"
+    },
+    {
+        "name": "Roserade",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/roserade"
+    },
+    {
+        "name": "Cranidos",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cranidos"
+    },
+    {
+        "name": "Rampardos",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rampardos"
+    },
+    {
+        "name": "Shieldon",
+        "type": [
+            "Rock",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shieldon"
+    },
+    {
+        "name": "Bastiodon",
+        "type": [
+            "Rock",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bastiodon"
+    },
+    {
+        "name": "Burmy",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/burmy"
+    },
+    {
+        "name": "Wormadam",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wormadam"
+    },
+    {
+        "name": "Mothim",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mothim"
+    },
+    {
+        "name": "Combee",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/combee"
+    },
+    {
+        "name": "Vespiquen",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vespiquen"
+    },
+    {
+        "name": "Pachirisu",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pachirisu"
+    },
+    {
+        "name": "Buizel",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/buizel"
+    },
+    {
+        "name": "Floatzel",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/floatzel"
+    },
+    {
+        "name": "Cherubi",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cherubi"
+    },
+    {
+        "name": "Cherrim",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cherrim"
+    },
+    {
+        "name": "Shellos",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shellos"
+    },
+    {
+        "name": "Gastrodon",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gastrodon"
+    },
+    {
+        "name": "Ambipom",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ambipom"
+    },
+    {
+        "name": "Drifloon",
+        "type": [
+            "Ghost",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/drifloon"
+    },
+    {
+        "name": "Drifblim",
+        "type": [
+            "Ghost",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/drifblim"
+    },
+    {
+        "name": "Buneary",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/buneary"
+    },
+    {
+        "name": "Lopunny",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lopunny"
+    },
+    {
+        "name": "Mismagius",
+        "type": [
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mismagius"
+    },
+    {
+        "name": "Honchkrow",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/honchkrow"
+    },
+    {
+        "name": "Glameow",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/glameow"
+    },
+    {
+        "name": "Purugly",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/purugly"
+    },
+    {
+        "name": "Chingling",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/chingling"
+    },
+    {
+        "name": "Stunky",
+        "type": [
+            "Poison",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/stunky"
+    },
+    {
+        "name": "Skuntank",
+        "type": [
+            "Poison",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/skuntank"
+    },
+    {
+        "name": "Bronzor",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bronzor"
+    },
+    {
+        "name": "Bronzong",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bronzong"
+    },
+    {
+        "name": "Bonsly",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bonsly"
+    },
+    {
+        "name": "Mime Jr.",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mime-jr"
+    },
+    {
+        "name": "Happiny",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/happiny"
+    },
+    {
+        "name": "Chatot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/chatot"
+    },
+    {
+        "name": "Spiritomb",
+        "type": [
+            "Ghost",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/spiritomb"
+    },
+    {
+        "name": "Gible",
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gible"
+    },
+    {
+        "name": "Gabite",
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gabite"
+    },
+    {
+        "name": "Garchomp",
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/garchomp"
+    },
+    {
+        "name": "Munchlax",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/munchlax"
+    },
+    {
+        "name": "Riolu",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/riolu"
+    },
+    {
+        "name": "Lucario",
+        "type": [
+            "Fighting",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lucario"
+    },
+    {
+        "name": "Hippopotas",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hippopotas"
+    },
+    {
+        "name": "Hippowdon",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hippowdon"
+    },
+    {
+        "name": "Skorupi",
+        "type": [
+            "Poison",
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/skorupi"
+    },
+    {
+        "name": "Drapion",
+        "type": [
+            "Poison",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/drapion"
+    },
+    {
+        "name": "Croagunk",
+        "type": [
+            "Poison",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/croagunk"
+    },
+    {
+        "name": "Toxicroak",
+        "type": [
+            "Poison",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/toxicroak"
+    },
+    {
+        "name": "Carnivine",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/carnivine"
+    },
+    {
+        "name": "Finneon",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/finneon"
+    },
+    {
+        "name": "Lumineon",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lumineon"
+    },
+    {
+        "name": "Mantyke",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mantyke"
+    },
+    {
+        "name": "Snover",
+        "type": [
+            "Grass",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/snover"
+    },
+    {
+        "name": "Abomasnow",
+        "type": [
+            "Grass",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/abomasnow"
+    },
+    {
+        "name": "Weavile",
+        "type": [
+            "Dark",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/weavile"
+    },
+    {
+        "name": "Magnezone",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/magnezone"
+    },
+    {
+        "name": "Lickilicky",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lickilicky"
+    },
+    {
+        "name": "Rhyperior",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rhyperior"
+    },
+    {
+        "name": "Tangrowth",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tangrowth"
+    },
+    {
+        "name": "Electivire",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/electivire"
+    },
+    {
+        "name": "Magmortar",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/magmortar"
+    },
+    {
+        "name": "Togekiss",
+        "type": [
+            "Fairy",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/togekiss"
+    },
+    {
+        "name": "Yanmega",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/yanmega"
+    },
+    {
+        "name": "Leafeon",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/leafeon"
+    },
+    {
+        "name": "Glaceon",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/glaceon"
+    },
+    {
+        "name": "Gliscor",
+        "type": [
+            "Ground",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gliscor"
+    },
+    {
+        "name": "Mamoswine",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mamoswine"
+    },
+    {
+        "name": "Porygon-Z",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/porygon-z"
+    },
+    {
+        "name": "Gallade",
+        "type": [
+            "Psychic",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gallade"
+    },
+    {
+        "name": "Probopass",
+        "type": [
+            "Rock",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/probopass"
+    },
+    {
+        "name": "Dusknoir",
+        "type": [
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dusknoir"
+    },
+    {
+        "name": "Froslass",
+        "type": [
+            "Ice",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/froslass"
+    },
+    {
+        "name": "Rotom",
+        "type": [
+            "Electric",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rotom"
+    },
+    {
+        "name": "Uxie",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/uxie"
+    },
+    {
+        "name": "Mesprit",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mesprit"
+    },
+    {
+        "name": "Azelf",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/azelf"
+    },
+    {
+        "name": "Dialga",
+        "type": [
+            "Steel",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dialga"
+    },
+    {
+        "name": "Palkia",
+        "type": [
+            "Water",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/palkia"
+    },
+    {
+        "name": "Heatran",
+        "type": [
+            "Fire",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/heatran"
+    },
+    {
+        "name": "Regigigas",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/regigigas"
+    },
+    {
+        "name": "Giratina",
+        "type": [
+            "Ghost",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/giratina"
+    },
+    {
+        "name": "Cresselia",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cresselia"
+    },
+    {
+        "name": "Phione",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/phione"
+    },
+    {
+        "name": "Manaphy",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/manaphy"
+    },
+    {
+        "name": "Darkrai",
+        "type": [
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/darkrai"
+    },
+    {
+        "name": "Shaymin",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shaymin"
+    },
+    {
+        "name": "Arceus",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/arceus"
+    },
+    {
+        "name": "Victini",
+        "type": [
+            "Psychic",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/victini"
+    },
+    {
+        "name": "Snivy",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/snivy"
+    },
+    {
+        "name": "Servine",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/servine"
+    },
+    {
+        "name": "Serperior",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/serperior"
+    },
+    {
+        "name": "Tepig",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tepig"
+    },
+    {
+        "name": "Pignite",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pignite"
+    },
+    {
+        "name": "Emboar",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/emboar"
+    },
+    {
+        "name": "Oshawott",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/oshawott"
+    },
+    {
+        "name": "Dewott",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dewott"
+    },
+    {
+        "name": "Samurott",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/samurott"
+    },
+    {
+        "name": "Patrat",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/patrat"
+    },
+    {
+        "name": "Watchog",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/watchog"
+    },
+    {
+        "name": "Lillipup",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lillipup"
+    },
+    {
+        "name": "Herdier",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/herdier"
+    },
+    {
+        "name": "Stoutland",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/stoutland"
+    },
+    {
+        "name": "Purrloin",
+        "type": [
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/purrloin"
+    },
+    {
+        "name": "Liepard",
+        "type": [
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/liepard"
+    },
+    {
+        "name": "Pansage",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pansage"
+    },
+    {
+        "name": "Simisage",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/simisage"
+    },
+    {
+        "name": "Pansear",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pansear"
+    },
+    {
+        "name": "Simisear",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/simisear"
+    },
+    {
+        "name": "Panpour",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/panpour"
+    },
+    {
+        "name": "Simipour",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/simipour"
+    },
+    {
+        "name": "Munna",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/munna"
+    },
+    {
+        "name": "Musharna",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/musharna"
+    },
+    {
+        "name": "Pidove",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pidove"
+    },
+    {
+        "name": "Tranquill",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tranquill"
+    },
+    {
+        "name": "Unfezant",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/unfezant"
+    },
+    {
+        "name": "Blitzle",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/blitzle"
+    },
+    {
+        "name": "Zebstrika",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zebstrika"
+    },
+    {
+        "name": "Roggenrola",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/roggenrola"
+    },
+    {
+        "name": "Boldore",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/boldore"
+    },
+    {
+        "name": "Gigalith",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gigalith"
+    },
+    {
+        "name": "Woobat",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/woobat"
+    },
+    {
+        "name": "Swoobat",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/swoobat"
+    },
+    {
+        "name": "Drilbur",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/drilbur"
+    },
+    {
+        "name": "Excadrill",
+        "type": [
+            "Ground",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/excadrill"
+    },
+    {
+        "name": "Audino",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/audino"
+    },
+    {
+        "name": "Timburr",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/timburr"
+    },
+    {
+        "name": "Gurdurr",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gurdurr"
+    },
+    {
+        "name": "Conkeldurr",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/conkeldurr"
+    },
+    {
+        "name": "Tympole",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tympole"
+    },
+    {
+        "name": "Palpitoad",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/palpitoad"
+    },
+    {
+        "name": "Seismitoad",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/seismitoad"
+    },
+    {
+        "name": "Throh",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/throh"
+    },
+    {
+        "name": "Sawk",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sawk"
+    },
+    {
+        "name": "Sewaddle",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sewaddle"
+    },
+    {
+        "name": "Swadloon",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/swadloon"
+    },
+    {
+        "name": "Leavanny",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/leavanny"
+    },
+    {
+        "name": "Venipede",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/venipede"
+    },
+    {
+        "name": "Whirlipede",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/whirlipede"
+    },
+    {
+        "name": "Scolipede",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/scolipede"
+    },
+    {
+        "name": "Cottonee",
+        "type": [
+            "Grass",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cottonee"
+    },
+    {
+        "name": "Whimsicott",
+        "type": [
+            "Grass",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/whimsicott"
+    },
+    {
+        "name": "Petilil",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/petilil"
+    },
+    {
+        "name": "Lilligant",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lilligant"
+    },
+    {
+        "name": "Basculin",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/basculin"
+    },
+    {
+        "name": "Sandile",
+        "type": [
+            "Ground",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sandile"
+    },
+    {
+        "name": "Krokorok",
+        "type": [
+            "Ground",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/krokorok"
+    },
+    {
+        "name": "Krookodile",
+        "type": [
+            "Ground",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/krookodile"
+    },
+    {
+        "name": "Darumaka",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/darumaka"
+    },
+    {
+        "name": "Darmanitan",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/darmanitan"
+    },
+    {
+        "name": "Maractus",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/maractus"
+    },
+    {
+        "name": "Dwebble",
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dwebble"
+    },
+    {
+        "name": "Crustle",
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/crustle"
+    },
+    {
+        "name": "Scraggy",
+        "type": [
+            "Dark",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/scraggy"
+    },
+    {
+        "name": "Scrafty",
+        "type": [
+            "Dark",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/scrafty"
+    },
+    {
+        "name": "Sigilyph",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sigilyph"
+    },
+    {
+        "name": "Yamask",
+        "type": [
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/yamask"
+    },
+    {
+        "name": "Cofagrigus",
+        "type": [
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cofagrigus"
+    },
+    {
+        "name": "Tirtouga",
+        "type": [
+            "Water",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tirtouga"
+    },
+    {
+        "name": "Carracosta",
+        "type": [
+            "Water",
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/carracosta"
+    },
+    {
+        "name": "Archen",
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/archen"
+    },
+    {
+        "name": "Archeops",
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/archeops"
+    },
+    {
+        "name": "Trubbish",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/trubbish"
+    },
+    {
+        "name": "Garbodor",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/garbodor"
+    },
+    {
+        "name": "Zorua",
+        "type": [
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zorua"
+    },
+    {
+        "name": "Zoroark",
+        "type": [
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zoroark"
+    },
+    {
+        "name": "Minccino",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/minccino"
+    },
+    {
+        "name": "Cinccino",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cinccino"
+    },
+    {
+        "name": "Gothita",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gothita"
+    },
+    {
+        "name": "Gothorita",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gothorita"
+    },
+    {
+        "name": "Gothitelle",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gothitelle"
+    },
+    {
+        "name": "Solosis",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/solosis"
+    },
+    {
+        "name": "Duosion",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/duosion"
+    },
+    {
+        "name": "Reuniclus",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/reuniclus"
+    },
+    {
+        "name": "Ducklett",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ducklett"
+    },
+    {
+        "name": "Swanna",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/swanna"
+    },
+    {
+        "name": "Vanillite",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vanillite"
+    },
+    {
+        "name": "Vanillish",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vanillish"
+    },
+    {
+        "name": "Vanilluxe",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vanilluxe"
+    },
+    {
+        "name": "Deerling",
+        "type": [
+            "Normal",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/deerling"
+    },
+    {
+        "name": "Sawsbuck",
+        "type": [
+            "Normal",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sawsbuck"
+    },
+    {
+        "name": "Emolga",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/emolga"
+    },
+    {
+        "name": "Karrablast",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/karrablast"
+    },
+    {
+        "name": "Escavalier",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/escavalier"
+    },
+    {
+        "name": "Foongus",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/foongus"
+    },
+    {
+        "name": "Amoonguss",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/amoonguss"
+    },
+    {
+        "name": "Frillish",
+        "type": [
+            "Water",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/frillish"
+    },
+    {
+        "name": "Jellicent",
+        "type": [
+            "Water",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/jellicent"
+    },
+    {
+        "name": "Alomomola",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/alomomola"
+    },
+    {
+        "name": "Joltik",
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/joltik"
+    },
+    {
+        "name": "Galvantula",
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/galvantula"
+    },
+    {
+        "name": "Ferroseed",
+        "type": [
+            "Grass",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ferroseed"
+    },
+    {
+        "name": "Ferrothorn",
+        "type": [
+            "Grass",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ferrothorn"
+    },
+    {
+        "name": "Klink",
+        "type": [
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/klink"
+    },
+    {
+        "name": "Klang",
+        "type": [
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/klang"
+    },
+    {
+        "name": "Klinklang",
+        "type": [
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/klinklang"
+    },
+    {
+        "name": "Tynamo",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tynamo"
+    },
+    {
+        "name": "Eelektrik",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/eelektrik"
+    },
+    {
+        "name": "Eelektross",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/eelektross"
+    },
+    {
+        "name": "Elgyem",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/elgyem"
+    },
+    {
+        "name": "Beheeyem",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/beheeyem"
+    },
+    {
+        "name": "Litwick",
+        "type": [
+            "Ghost",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/litwick"
+    },
+    {
+        "name": "Lampent",
+        "type": [
+            "Ghost",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lampent"
+    },
+    {
+        "name": "Chandelure",
+        "type": [
+            "Ghost",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/chandelure"
+    },
+    {
+        "name": "Axew",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/axew"
+    },
+    {
+        "name": "Fraxure",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/fraxure"
+    },
+    {
+        "name": "Haxorus",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/haxorus"
+    },
+    {
+        "name": "Cubchoo",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cubchoo"
+    },
+    {
+        "name": "Beartic",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/beartic"
+    },
+    {
+        "name": "Cryogonal",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cryogonal"
+    },
+    {
+        "name": "Shelmet",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shelmet"
+    },
+    {
+        "name": "Accelgor",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/accelgor"
+    },
+    {
+        "name": "Stunfisk",
+        "type": [
+            "Ground",
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/stunfisk"
+    },
+    {
+        "name": "Mienfoo",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mienfoo"
+    },
+    {
+        "name": "Mienshao",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mienshao"
+    },
+    {
+        "name": "Druddigon",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/druddigon"
+    },
+    {
+        "name": "Golett",
+        "type": [
+            "Ground",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/golett"
+    },
+    {
+        "name": "Golurk",
+        "type": [
+            "Ground",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/golurk"
+    },
+    {
+        "name": "Pawniard",
+        "type": [
+            "Dark",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pawniard"
+    },
+    {
+        "name": "Bisharp",
+        "type": [
+            "Dark",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bisharp"
+    },
+    {
+        "name": "Bouffalant",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bouffalant"
+    },
+    {
+        "name": "Rufflet",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rufflet"
+    },
+    {
+        "name": "Braviary",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/braviary"
+    },
+    {
+        "name": "Vullaby",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vullaby"
+    },
+    {
+        "name": "Mandibuzz",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mandibuzz"
+    },
+    {
+        "name": "Heatmor",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/heatmor"
+    },
+    {
+        "name": "Durant",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/durant"
+    },
+    {
+        "name": "Deino",
+        "type": [
+            "Dark",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/deino"
+    },
+    {
+        "name": "Zweilous",
+        "type": [
+            "Dark",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zweilous"
+    },
+    {
+        "name": "Hydreigon",
+        "type": [
+            "Dark",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hydreigon"
+    },
+    {
+        "name": "Larvesta",
+        "type": [
+            "Bug",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/larvesta"
+    },
+    {
+        "name": "Volcarona",
+        "type": [
+            "Bug",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/volcarona"
+    },
+    {
+        "name": "Cobalion",
+        "type": [
+            "Steel",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cobalion"
+    },
+    {
+        "name": "Terrakion",
+        "type": [
+            "Rock",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/terrakion"
+    },
+    {
+        "name": "Virizion",
+        "type": [
+            "Grass",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/virizion"
+    },
+    {
+        "name": "Tornadus",
+        "type": [
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tornadus"
+    },
+    {
+        "name": "Thundurus",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/thundurus"
+    },
+    {
+        "name": "Reshiram",
+        "type": [
+            "Dragon",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/reshiram"
+    },
+    {
+        "name": "Zekrom",
+        "type": [
+            "Dragon",
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zekrom"
+    },
+    {
+        "name": "Landorus",
+        "type": [
+            "Ground",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/landorus"
+    },
+    {
+        "name": "Kyurem",
+        "type": [
+            "Dragon",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kyurem"
+    },
+    {
+        "name": "Keldeo",
+        "type": [
+            "Water",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/keldeo"
+    },
+    {
+        "name": "Meloetta",
+        "type": [
+            "Normal",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/meloetta"
+    },
+    {
+        "name": "Genesect",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/genesect"
+    },
+    {
+        "name": "Chespin",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/chespin"
+    },
+    {
+        "name": "Quilladin",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/quilladin"
+    },
+    {
+        "name": "Chesnaught",
+        "type": [
+            "Grass",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/chesnaught"
+    },
+    {
+        "name": "Fennekin",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/fennekin"
+    },
+    {
+        "name": "Braixen",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/braixen"
+    },
+    {
+        "name": "Delphox",
+        "type": [
+            "Fire",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/delphox"
+    },
+    {
+        "name": "Froakie",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/froakie"
+    },
+    {
+        "name": "Frogadier",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/frogadier"
+    },
+    {
+        "name": "Greninja",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/greninja"
+    },
+    {
+        "name": "Bunnelby",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bunnelby"
+    },
+    {
+        "name": "Diggersby",
+        "type": [
+            "Normal",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/diggersby"
+    },
+    {
+        "name": "Fletchling",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/fletchling"
+    },
+    {
+        "name": "Fletchinder",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/fletchinder"
+    },
+    {
+        "name": "Talonflame",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/talonflame"
+    },
+    {
+        "name": "Scatterbug",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/scatterbug"
+    },
+    {
+        "name": "Spewpa",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/spewpa"
+    },
+    {
+        "name": "Vivillon",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vivillon"
+    },
+    {
+        "name": "Litleo",
+        "type": [
+            "Fire",
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/litleo"
+    },
+    {
+        "name": "Pyroar",
+        "type": [
+            "Fire",
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pyroar"
+    },
+    {
+        "name": "Flabébé",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/flabebe"
+    },
+    {
+        "name": "Floette",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/floette"
+    },
+    {
+        "name": "Florges",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/florges"
+    },
+    {
+        "name": "Skiddo",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/skiddo"
+    },
+    {
+        "name": "Gogoat",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gogoat"
+    },
+    {
+        "name": "Pancham",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pancham"
+    },
+    {
+        "name": "Pangoro",
+        "type": [
+            "Fighting",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pangoro"
+    },
+    {
+        "name": "Furfrou",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/furfrou"
+    },
+    {
+        "name": "Espurr",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/espurr"
+    },
+    {
+        "name": "Meowstic",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/meowstic"
+    },
+    {
+        "name": "Honedge",
+        "type": [
+            "Steel",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/honedge"
+    },
+    {
+        "name": "Doublade",
+        "type": [
+            "Steel",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/doublade"
+    },
+    {
+        "name": "Aegislash",
+        "type": [
+            "Steel",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/aegislash"
+    },
+    {
+        "name": "Spritzee",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/spritzee"
+    },
+    {
+        "name": "Aromatisse",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/aromatisse"
+    },
+    {
+        "name": "Swirlix",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/swirlix"
+    },
+    {
+        "name": "Slurpuff",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/slurpuff"
+    },
+    {
+        "name": "Inkay",
+        "type": [
+            "Dark",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/inkay"
+    },
+    {
+        "name": "Malamar",
+        "type": [
+            "Dark",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/malamar"
+    },
+    {
+        "name": "Binacle",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/binacle"
+    },
+    {
+        "name": "Barbaracle",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/barbaracle"
+    },
+    {
+        "name": "Skrelp",
+        "type": [
+            "Poison",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/skrelp"
+    },
+    {
+        "name": "Dragalge",
+        "type": [
+            "Poison",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dragalge"
+    },
+    {
+        "name": "Clauncher",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/clauncher"
+    },
+    {
+        "name": "Clawitzer",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/clawitzer"
+    },
+    {
+        "name": "Helioptile",
+        "type": [
+            "Electric",
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/helioptile"
+    },
+    {
+        "name": "Heliolisk",
+        "type": [
+            "Electric",
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/heliolisk"
+    },
+    {
+        "name": "Tyrunt",
+        "type": [
+            "Rock",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tyrunt"
+    },
+    {
+        "name": "Tyrantrum",
+        "type": [
+            "Rock",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tyrantrum"
+    },
+    {
+        "name": "Amaura",
+        "type": [
+            "Rock",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/amaura"
+    },
+    {
+        "name": "Aurorus",
+        "type": [
+            "Rock",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/aurorus"
+    },
+    {
+        "name": "Sylveon",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sylveon"
+    },
+    {
+        "name": "Hawlucha",
+        "type": [
+            "Fighting",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hawlucha"
+    },
+    {
+        "name": "Dedenne",
+        "type": [
+            "Electric",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dedenne"
+    },
+    {
+        "name": "Carbink",
+        "type": [
+            "Rock",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/carbink"
+    },
+    {
+        "name": "Goomy",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/goomy"
+    },
+    {
+        "name": "Sliggoo",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sliggoo"
+    },
+    {
+        "name": "Goodra",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/goodra"
+    },
+    {
+        "name": "Klefki",
+        "type": [
+            "Steel",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/klefki"
+    },
+    {
+        "name": "Phantump",
+        "type": [
+            "Ghost",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/phantump"
+    },
+    {
+        "name": "Trevenant",
+        "type": [
+            "Ghost",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/trevenant"
+    },
+    {
+        "name": "Pumpkaboo",
+        "type": [
+            "Ghost",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pumpkaboo"
+    },
+    {
+        "name": "Gourgeist",
+        "type": [
+            "Ghost",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gourgeist"
+    },
+    {
+        "name": "Bergmite",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bergmite"
+    },
+    {
+        "name": "Avalugg",
+        "type": [
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/avalugg"
+    },
+    {
+        "name": "Noibat",
+        "type": [
+            "Flying",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/noibat"
+    },
+    {
+        "name": "Noivern",
+        "type": [
+            "Flying",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/noivern"
+    },
+    {
+        "name": "Xerneas",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/xerneas"
+    },
+    {
+        "name": "Yveltal",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/yveltal"
+    },
+    {
+        "name": "Zygarde",
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zygarde"
+    },
+    {
+        "name": "Diancie",
+        "type": [
+            "Rock",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/diancie"
+    },
+    {
+        "name": "Hoopa",
+        "type": [
+            "Psychic",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hoopa"
+    },
+    {
+        "name": "Volcanion",
+        "type": [
+            "Fire",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/volcanion"
+    },
+    {
+        "name": "Rowlet",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rowlet"
+    },
+    {
+        "name": "Dartrix",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dartrix"
+    },
+    {
+        "name": "Decidueye",
+        "type": [
+            "Grass",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/decidueye"
+    },
+    {
+        "name": "Litten",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/litten"
+    },
+    {
+        "name": "Torracat",
+        "type": [
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/torracat"
+    },
+    {
+        "name": "Incineroar",
+        "type": [
+            "Fire",
+            "Dark"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/incineroar"
+    },
+    {
+        "name": "Popplio",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/popplio"
+    },
+    {
+        "name": "Brionne",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/brionne"
+    },
+    {
+        "name": "Primarina",
+        "type": [
+            "Water",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/primarina"
+    },
+    {
+        "name": "Pikipek",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pikipek"
+    },
+    {
+        "name": "Trumbeak",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/trumbeak"
+    },
+    {
+        "name": "Toucannon",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/toucannon"
+    },
+    {
+        "name": "Yungoos",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/yungoos"
+    },
+    {
+        "name": "Gumshoos",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/gumshoos"
+    },
+    {
+        "name": "Grubbin",
+        "type": [
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/grubbin"
+    },
+    {
+        "name": "Charjabug",
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/charjabug"
+    },
+    {
+        "name": "Vikavolt",
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/vikavolt"
+    },
+    {
+        "name": "Crabrawler",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/crabrawler"
+    },
+    {
+        "name": "Crabominable",
+        "type": [
+            "Fighting",
+            "Ice"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/crabominable"
+    },
+    {
+        "name": "Oricorio",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/oricorio"
+    },
+    {
+        "name": "Cutiefly",
+        "type": [
+            "Bug",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cutiefly"
+    },
+    {
+        "name": "Ribombee",
+        "type": [
+            "Bug",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/ribombee"
+    },
+    {
+        "name": "Rockruff",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/rockruff"
+    },
+    {
+        "name": "Lycanroc",
+        "type": [
+            "Rock"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lycanroc"
+    },
+    {
+        "name": "Wishiwashi",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wishiwashi"
+    },
+    {
+        "name": "Mareanie",
+        "type": [
+            "Poison",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mareanie"
+    },
+    {
+        "name": "Toxapex",
+        "type": [
+            "Poison",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/toxapex"
+    },
+    {
+        "name": "Mudbray",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mudbray"
+    },
+    {
+        "name": "Mudsdale",
+        "type": [
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mudsdale"
+    },
+    {
+        "name": "Dewpider",
+        "type": [
+            "Water",
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dewpider"
+    },
+    {
+        "name": "Araquanid",
+        "type": [
+            "Water",
+            "Bug"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/araquanid"
+    },
+    {
+        "name": "Fomantis",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/fomantis"
+    },
+    {
+        "name": "Lurantis",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lurantis"
+    },
+    {
+        "name": "Morelull",
+        "type": [
+            "Grass",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/morelull"
+    },
+    {
+        "name": "Shiinotic",
+        "type": [
+            "Grass",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/shiinotic"
+    },
+    {
+        "name": "Salandit",
+        "type": [
+            "Poison",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/salandit"
+    },
+    {
+        "name": "Salazzle",
+        "type": [
+            "Poison",
+            "Fire"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/salazzle"
+    },
+    {
+        "name": "Stufful",
+        "type": [
+            "Normal",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/stufful"
+    },
+    {
+        "name": "Bewear",
+        "type": [
+            "Normal",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bewear"
+    },
+    {
+        "name": "Bounsweet",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bounsweet"
+    },
+    {
+        "name": "Steenee",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/steenee"
+    },
+    {
+        "name": "Tsareena",
+        "type": [
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tsareena"
+    },
+    {
+        "name": "Comfey",
+        "type": [
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/comfey"
+    },
+    {
+        "name": "Oranguru",
+        "type": [
+            "Normal",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/oranguru"
+    },
+    {
+        "name": "Passimian",
+        "type": [
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/passimian"
+    },
+    {
+        "name": "Wimpod",
+        "type": [
+            "Bug",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/wimpod"
+    },
+    {
+        "name": "Golisopod",
+        "type": [
+            "Bug",
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/golisopod"
+    },
+    {
+        "name": "Sandygast",
+        "type": [
+            "Ghost",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/sandygast"
+    },
+    {
+        "name": "Palossand",
+        "type": [
+            "Ghost",
+            "Ground"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/palossand"
+    },
+    {
+        "name": "Pyukumuku",
+        "type": [
+            "Water"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pyukumuku"
+    },
+    {
+        "name": "Type: Null",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/type-null"
+    },
+    {
+        "name": "Silvally",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/silvally"
+    },
+    {
+        "name": "Minior",
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/minior"
+    },
+    {
+        "name": "Komala",
+        "type": [
+            "Normal"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/komala"
+    },
+    {
+        "name": "Turtonator",
+        "type": [
+            "Fire",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/turtonator"
+    },
+    {
+        "name": "Togedemaru",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/togedemaru"
+    },
+    {
+        "name": "Mimikyu",
+        "type": [
+            "Ghost",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/mimikyu"
+    },
+    {
+        "name": "Bruxish",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/bruxish"
+    },
+    {
+        "name": "Drampa",
+        "type": [
+            "Normal",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/drampa"
+    },
+    {
+        "name": "Dhelmise",
+        "type": [
+            "Ghost",
+            "Grass"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/dhelmise"
+    },
+    {
+        "name": "Jangmo-o",
+        "type": [
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/jangmo-o"
+    },
+    {
+        "name": "Hakamo-o",
+        "type": [
+            "Dragon",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/hakamo-o"
+    },
+    {
+        "name": "Kommo-o",
+        "type": [
+            "Dragon",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kommo-o"
+    },
+    {
+        "name": "Tapu Koko",
+        "type": [
+            "Electric",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tapu-koko"
+    },
+    {
+        "name": "Tapu Lele",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tapu-lele"
+    },
+    {
+        "name": "Tapu Bulu",
+        "type": [
+            "Grass",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tapu-bulu"
+    },
+    {
+        "name": "Tapu Fini",
+        "type": [
+            "Water",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/tapu-fini"
+    },
+    {
+        "name": "Cosmog",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cosmog"
+    },
+    {
+        "name": "Cosmoem",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/cosmoem"
+    },
+    {
+        "name": "Solgaleo",
+        "type": [
+            "Psychic",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/solgaleo"
+    },
+    {
+        "name": "Lunala",
+        "type": [
+            "Psychic",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/lunala"
+    },
+    {
+        "name": "Nihilego",
+        "type": [
+            "Rock",
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/nihilego"
+    },
+    {
+        "name": "Buzzwole",
+        "type": [
+            "Bug",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/buzzwole"
+    },
+    {
+        "name": "Pheromosa",
+        "type": [
+            "Bug",
+            "Fighting"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/pheromosa"
+    },
+    {
+        "name": "Xurkitree",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/xurkitree"
+    },
+    {
+        "name": "Celesteela",
+        "type": [
+            "Steel",
+            "Flying"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/celesteela"
+    },
+    {
+        "name": "Kartana",
+        "type": [
+            "Grass",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/kartana"
+    },
+    {
+        "name": "Guzzlord",
+        "type": [
+            "Dark",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/guzzlord"
+    },
+    {
+        "name": "Necrozma",
+        "type": [
+            "Psychic"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/necrozma"
+    },
+    {
+        "name": "Magearna",
+        "type": [
+            "Steel",
+            "Fairy"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/magearna"
+    },
+    {
+        "name": "Marshadow",
+        "type": [
+            "Fighting",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/marshadow"
+    },
+    {
+        "name": "Poipole",
+        "type": [
+            "Poison"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/poipole"
+    },
+    {
+        "name": "Naganadel",
+        "type": [
+            "Poison",
+            "Dragon"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/naganadel"
+    },
+    {
+        "name": "Stakataka",
+        "type": [
+            "Rock",
+            "Steel"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/stakataka"
+    },
+    {
+        "name": "Blacephalon",
+        "type": [
+            "Fire",
+            "Ghost"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/blacephalon"
+    },
+    {
+        "name": "Zeraora",
+        "type": [
+            "Electric"
+        ],
+        "pokemonUrl": "https://pokemondb.net/pokedex/zeraora"
+    }
+]
