@@ -1,6 +1,7 @@
 const $ = require('cheerio');
 const request = require('request');
 const rp = require('request-promise');
+const fs = require('fs')
 // require('request-promise').debug = true
 // require('request-debug')(rp);
 
@@ -49,11 +50,11 @@ const scrapeController = {
           photoCrawl.url = address;
           rp(photoCrawl)
             .then(result => {
-              let foundPokemon = true;
+              let foundPokemon = false;
               for (let i = 0; i < pokemonArr.length; i++) {
                 if (pokemonArr[i].pokedexNo === result.pokedexNo) {
                   pokemonArr[i].photo = result.photo;
-                  foundPokemon = false;
+                  foundPokemon = true;
                   break;
                 }
               }
@@ -61,16 +62,21 @@ const scrapeController = {
               count++;
               console.log('count ', count);
               console.log('arr ', arr.length);
-              if (count >= 151) res.json(pokemonArr);
+              if (count >= 749) {
+                // res.json(pokemonArr);
+                fs.writeFile('pokemon.json', JSON.stringify(pokemonArr, null, 2), (err) => {
+                  console.log('pokemon saved in pokemon.json file');
+                });
+              }
             })
             .catch(err => {
               failedURLs.push(address)
               console.error(err);
             });
-          });
-          return result[1];
-        })
-        .catch(err => {
+        });
+        return result[1];
+      })
+      .catch(err => {
         console.error(err);
       });
     }
