@@ -3,6 +3,7 @@ import Draggable from 'react-draggable';
 import PropTypes from 'prop-types';
 
 import PokemonCard from './PokemonCard.jsx';
+import Result from './Result.jsx';
 
 class TeamQueue extends Component {
     constructor(props) {
@@ -26,24 +27,8 @@ class TeamQueue extends Component {
                 x: 0, y: 0
               },
             types: null,
-            cardQueue: null,
-            pos: {
-                0: 302,
-                1: 604,
-                2: 906,
-                3: 1208,
-                4: 1510,
-                5: 1812,
-                6: 2114,
-                7: 2416,
-                8: 2718,
-                9: 3020,
-                10: 3322,
-                11: 3624,
-            },
-            isOccupied: [
-
-            ]
+            dragX: 0,
+            dragY: 250,
         }
         this.handleDrag = this.handleDrag.bind(this);
         this.onStop = this.onStop.bind(this);
@@ -118,46 +103,63 @@ class TeamQueue extends Component {
     onStop() {
         this.setState({activeDrags: --this.state.activeDrags});
     }
+
     
-    orderCards() {
-        const cardQueue = [];
+    
+    // orderCards() {
+    //     const cardQueue = [];
+    //     const dragHandlers = {
+    //         onDrag: this.handleDrag, 
+    //         onStop: this.onStop,
+    //         axis: 'y',
+    //         handle: ".handle",
+    //         position: {x: number, y: number},
+    //         grid: [0, 312]
+    //     };
+
+    //     for (let i = 0; i < this.props.lineup.length; i++) {
+    //         const types = this.getTypes(this.props.lineup[i].type)
+    //         cardQueue.push(
+    //             <Draggable key={i+this.props.team} id={i} {...dragHandlers}>
+    //             <div className="handle">
+    //                 <PokemonCard key={'pokemonCard'+i} pokemon={this.props.lineup[i]} types={types} />
+    //             </div>
+    //             </Draggable>
+    //         );
+    //     }
+
+    //     this.setState({
+    //         cardQueue
+    //     })
+    // }
+
+    // componentDidMount() {
+    //     this.orderCards();
+    // }   
+    
+
+    render() {
         const dragHandlers = {
             onDrag: this.handleDrag, 
             onStop: this.onStop,
             axis: 'y',
             handle: ".handle",
+            position: {x: this.state.dragX, y: this.state.dragY},
             grid: [0, 312]
         };
-
-        for (let i = 0; i < this.props.lineup.length; i++) {
-            const types = this.getTypes(this.props.lineup[i].type)
-            cardQueue.push(
-                <Draggable key={i+this.props.team} id={i} {...dragHandlers}>
-                <div className="handle">
-                    <PokemonCard key={'pokemonCard'+i} pokemon={this.props.lineup[i]} types={types} />
-                </div>
-                </Draggable>
-            );
-        }
-
-        this.setState({
-            cardQueue
-        })
-    }
-
-    componentDidMount() {
-        this.orderCards();
-    }   
-    
-
-    render() {
-       
         
-        
+        const types = this.getTypes(this.props.lineup[0].type)
 
         return (
-            <div className="team-queue" id={this.props.team}>  
-                {this.state.cardQueue}
+            <div>
+                <Result winState={this.props.winState} />
+                <div className="team-queue" id={this.props.team}>  
+                    <Draggable {...dragHandlers}>
+                    <div className="handle">
+                        <PokemonCard pokemon={this.props.lineup[0]} types={types} />
+                    </div>
+                    </Draggable>
+                </div>
             </div>
         )
     }

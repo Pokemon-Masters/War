@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import TeamQueue from './TeamQueue.jsx';
+import ScoreBoard from './ScoreBoard.jsx';
 
 class GameBoard extends Component {
     constructor(props) {
@@ -10,7 +11,7 @@ class GameBoard extends Component {
                 {
                     "name": "Bulbasaur",
                     "number": 1,
-                    "level": 10,
+                    "level": 1,
                     "queuePosition": 1,
                     "type": [
                         "Grass",
@@ -21,7 +22,7 @@ class GameBoard extends Component {
                 {
                     "name": "Ivysaur",
                     "number": 1,
-                    "level": 10,
+                    "level": 5,
                     "queuePosition": 2,
                     "type": [
                         "Grass",
@@ -32,7 +33,7 @@ class GameBoard extends Component {
                 {
                     "name": "Venusaur",
                     "number": 1,
-                    "level": 10,
+                    "level": 8,
                     "queuePosition": 3,
                     "type": [
                         "Grass",
@@ -43,7 +44,7 @@ class GameBoard extends Component {
                 {
                     "name": "Charmander",
                     "number": 1,
-                    "level": 10,
+                    "level": 22,
                     "queuePosition": 4,
                     "type": [
                         "Fire"
@@ -53,7 +54,7 @@ class GameBoard extends Component {
                 {
                     "name": "Charmeleon",
                     "number": 1,
-                    "level": 10,
+                    "level": 18,
                     "queuePosition": 5,
                     "type": [
                         "Fire"
@@ -63,7 +64,7 @@ class GameBoard extends Component {
                 {
                     "name": "Charizard",
                     "number": 1,
-                    "level": 10,
+                    "level": 15,
                     "queuePosition": 6,
                     "type": [
                         "Fire",
@@ -74,7 +75,7 @@ class GameBoard extends Component {
                 {
                     "name": "Squirtle",
                     "number": 1,
-                    "level": 10,
+                    "level": 8,
                     "queuePosition": 7,
                     "type": [
                         "Water"
@@ -84,7 +85,7 @@ class GameBoard extends Component {
                 {
                     "name": "Wartortle",
                     "number": 1,
-                    "level": 10,
+                    "level": 6,
                     "queuePosition": 8,
                     "type": [
                         "Water"
@@ -94,7 +95,7 @@ class GameBoard extends Component {
                 {
                     "name": "Blastoise",
                     "number": 1,
-                    "level": 10,
+                    "level": 20,
                     "queuePosition": 9,
                     "type": [
                         "Water"
@@ -104,7 +105,7 @@ class GameBoard extends Component {
                 {
                     "name": "Caterpie",
                     "number": 1,
-                    "level": 10,
+                    "level": 1,
                     "queuePosition": 10,
                     "type": [
                         "Bug"
@@ -114,7 +115,7 @@ class GameBoard extends Component {
                 {
                     "name": "Metapod",
                     "number": 1,
-                    "level": 10,
+                    "level": 4,
                     "queuePosition": 11,
                     "type": [
                         "Bug"
@@ -263,17 +264,87 @@ class GameBoard extends Component {
                     "pokemonUrl": "https://img.pokemondb.net/artwork/arbok.jpg"
                 },
             ],
+            currentRed: null,
+            currentBlue: null,
+            redScore: 0,
+            blueScore: 0,
+            winStateRed: null,
+            winStateBlue: null
+        }
+        this.checkForWinner = this.checkForWinner.bind(this)
+        this.resetBoard = this.resetBoard.bind(this)
+    }
+
+    componentDidMount() {
+        this.setState({
+            currentRed: this.state.redLineup[0],
+            currentBlue: this.state.blueLineup[0]
+        })
+    }
+
+
+    checkForWinner() {
+        if (this.state.currentRed.level > this.state.currentBlue.level) {
+            console.log('red')
+            this.setState((prevState) => {
+                return ({
+                    winStateRed: true,
+                    winStateBlue: false,
+                    redScore: prevState.redScore++,
+                })
+            });
+        } else if (this.state.currentRed.level < this.state.currentBlue.level)  {
+            console.log('blue')
+            this.setState((prevState) => {
+                return ({
+                    winStateRed: false,
+                    winStateBlue: true,
+                    blueScore: prevState.blueScore++
+                })
+            });
+        } else {
+            console.log('tie')
+            this.setState({
+                winStateRed: false,
+                winStateBlue: false,
+            })
         }
     }
 
-    
+    resetBoard() {
+
+    }
+
 
     render() {
 
         return (
-            <div id="game-board">
-                <TeamQueue className='red' team={'red'} lineup={this.state.redLineup} />
-                <TeamQueue className='blue' team={'blue'} lineup={this.state.blueLineup} />
+            <div>
+                <div id="game-board">
+                    <div id="scoreboard-wrapper">
+                        <ScoreBoard redScore={this.state.redScore} blueScore={this.state.blueScore} />
+                    </div>
+                    <div id="queue-wrapper">
+                        <TeamQueue 
+                            className='red' 
+                            team={'red'} 
+                            lineup={this.state.redLineup} 
+                            currentLevel={this.state.redLineup[0].level}
+                            winState={this.state.winStateRed}
+                        />
+                        <TeamQueue 
+                            className='blue'
+                            team={'blue'} 
+                            lineup={this.state.blueLineup} 
+                            currentLevel={this.state.blueLineup[0].level}
+                            winState={this.state.winStateBlue}
+                        />
+                    </div>
+                    <div id="play">
+                        <button id="play-button" onClick={this.checkForWinner}>Play!</button>
+                        <button id="next-button" onClick={this.resetBoard}>Next</button>
+                    </div>
+                </div>
             </div>
         )
     }
