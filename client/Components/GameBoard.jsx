@@ -280,8 +280,8 @@ class GameBoard extends Component {
         this.setState({
             currentRed: this.state.redLineup[0],
             currentBlue: this.state.blueLineup[0]
-        })
-    }
+            })
+    }   
 
 
     checkForWinner() {
