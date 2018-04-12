@@ -4,7 +4,9 @@ import PropTypes from 'prop-types';
 const PokemonCard = (props) => {
     
   // style={{top: props.pos}}
-  return (
+  // return (props.types) ?
+  return
+  (
     <div className="pokemon-card" >
       <strong>{props.pokemon.name}</strong>
       <br></br>
@@ -19,6 +21,11 @@ const PokemonCard = (props) => {
       {'Level: ' + props.pokemon.level}
     </div>
   )
+  // :
+  // (
+  //   <div className="pokemon-card" >
+  //   </div>
+  // )
 }
 
 PokemonCard.propTypes = {

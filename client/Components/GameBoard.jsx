@@ -265,6 +265,8 @@ class GameBoard extends Component {
           "pokemonUrl": "https://img.pokemondb.net/artwork/arbok.jpg"
         },
       ],
+      // redLineup: [],
+      // blueLineup: [],
       currentRed: null,
       currentBlue: null,
       redScore: 0,
@@ -294,19 +296,24 @@ class GameBoard extends Component {
     //     for (let i = 20; i < 40; i++) {
     //       blueLineupNew.push(data[i])
     //     }
-    //     console.log('red lineup: ' + redLineupNew[0])
-    //     console.log('blue lineup: ' + blueLineupNew[0])
-        // this.setState({
-        //   redLineup: redLineup,
-        //   blueLineup: blueLineup,
-        //   currentRed: redLineup[0],
-        //   currentBlue: blueLineup[0]
-        // })
-        this.setState({
-          currentRed: this.state.redLineup[0],
-          currentBlue: this.state.blueLineup[0]
-        })
-    //   })
+    //     // console.log('red lineup: ' + redLineupNew[0].id)
+    //     // console.log('blue lineup: ' + blueLineupNew)
+    //     let newState = Object.assign(this.state, {
+    //       redLineup: redLineupNew,
+    //       blueLineup: blueLineupNew,
+    //       currentRed: redLineupNew[0],
+    //       currentBlue: blueLineupNew[0]
+    //     })
+    //     console.log('newState: ' + newState)
+    //     this.setState(
+    //       newState
+    //     )
+  // })
+
+      this.setState({
+        currentRed: this.state.redLineup[0],
+        currentBlue: this.state.blueLineup[0]
+      })
   }
 
   checkForWinner() {
@@ -375,6 +382,7 @@ class GameBoard extends Component {
 
 
   render() {
+    // return (this.state.redLineup.length) ?
     return (
       <div>
         <div id="game-board">
@@ -404,6 +412,35 @@ class GameBoard extends Component {
         </div>
       </div>
     )
+    // :
+    // (<div>
+    //   <div id="game-board">
+    //     <div id="scoreboard-wrapper">
+    //       <ScoreBoard redScore={this.state.redScore} blueScore={this.state.blueScore} />
+    //     </div>
+    //     <div id="queue-wrapper">
+    //       <TeamQueue 
+    //           className='red' 
+    //           team={'red'} 
+    //           lineup={this.state.redLineup} 
+    //           currentLevel={0}
+    //           winState={this.state.winStateRed}
+    //       />
+    //       <TeamQueue 
+    //           className='blue'
+    //           team={'blue'} 
+    //           lineup={this.state.blueLineup} 
+    //           currentLevel={0}
+    //           winState={this.state.winStateBlue}
+    //       />
+    //     </div>
+    //     <div id="play">
+    //       <button id="play-button" onClick={this.checkForWinner}>Play!</button>
+    //       <button id="next-button" onClick={this.resetBoard}>Next</button>
+    //     </div>
+    //   </div>
+    // </div>
+    // )    
   }
 }
 

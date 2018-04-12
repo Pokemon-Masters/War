@@ -148,6 +148,7 @@ class TeamQueue extends Component {
       grid: [0, 312]
     };
     
+    // const types = (this.props.lineup.length) ? this.getTypes(this.props.lineup[0].type) : '';
     const types = this.getTypes(this.props.lineup[0].type)
 
     return (
