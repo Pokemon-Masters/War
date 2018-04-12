@@ -269,7 +269,8 @@ class GameBoard extends Component {
             redScore: 0,
             blueScore: 0,
             winStateRed: null,
-            winStateBlue: null
+            winStateBlue: null,
+            winner: null
         }
         this.checkForWinner = this.checkForWinner.bind(this)
         this.resetBoard = this.resetBoard.bind(this)
@@ -284,13 +285,14 @@ class GameBoard extends Component {
 
 
     checkForWinner() {
+        console.log(this.state.currentRed.level)
         if (this.state.currentRed.level > this.state.currentBlue.level) {
             console.log('red')
             this.setState((prevState) => {
                 return ({
                     winStateRed: true,
                     winStateBlue: false,
-                    redScore: prevState.redScore++,
+                    redScore: prevState.redScore + 1,
                 })
             });
         } else if (this.state.currentRed.level < this.state.currentBlue.level)  {
@@ -299,7 +301,7 @@ class GameBoard extends Component {
                 return ({
                     winStateRed: false,
                     winStateBlue: true,
-                    blueScore: prevState.blueScore++
+                    blueScore: prevState.blueScore + 1
                 })
             });
         } else {
@@ -312,7 +314,34 @@ class GameBoard extends Component {
     }
 
     resetBoard() {
-
+        this.setState((prevState) => {
+            prevState.redLineup.shift()
+            prevState.blueLineup.shift()
+            if (prevState.redLineup.length) {
+                if (this.state.redScore > this.state.blueScore) {
+                    return({
+                        winner: "Red Wins!"
+                    })
+                } else if (this.state.blueScore > this.state.redScore) {
+                    return({
+                        winner: "Blue Wins!"
+                    })
+                } else {
+                    return({
+                        winner: "It's a Tie!"
+                    })
+                }
+            } else {
+                return ({
+                    redLineup: prevState.redLineup,
+                    blueLineup: prevState.blueLineup,
+                    // currentRed: this.state.redLineup[0],
+                    // currentBlue: this.state.blueLineup[0],
+                    winStateRed: null,
+                    winStateBlue: null
+                })
+            }
+        })
     }
 
 
