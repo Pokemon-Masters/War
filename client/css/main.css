@@ -1,3 +1,44 @@
+body, html {
+    height: 100vh;
+}
+
+.pokemon-card {
+    width: 160px;
+    height: 290px;
+    font-size: 1.5em;
+    font-family: fantasy;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #f7b901;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pokemon-img {
+    width: 150px;
+    max-height: 150px;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.type-logo {
+    border: none;
+    width: 30px;
+    height: auto;
+}
+
+/* #\30 .pokemon-card {
+    top: 
+} */
+
+#blue {
+    /* position: absolute; */
+    width: 160px;
+    /* height: 1000px; */
+    /* top: 20px; */
+}
+
 #game-board {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+37,6d0019+100 */
     background: #a90329; /* Old browsers */
@@ -10,6 +51,18 @@
     border-color: #ffc61a;
     box-shadow:-2px 0 0 0 red, 
                 2px 0 0 0 green;
-    width: 100px;
-    height: 100px;
+    width: 80%;
+    height: 100%;
+    min-width: 400px;
+    min-height: 100% !important;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+#red {
+    /* position: absolute; */
+    width: 160px;
+    /* height: 1000px; */
+    /* top: 20px; */
 }
