@@ -5,7 +5,8 @@ const deckController = {
     //each player will get 20 cards
     while (count < 20) {
       let num = Math.floor(Math.random() * 807) + 1;
-      sequelize.query("SELECT * FROM Pokemon WHERE number = count").then(pokemon => {
+      //we need to ignore pokemon w/o photourl property (not number property)
+      sequelize.query("SELECT * FROM Pokemon WHERE number = num").then(pokemon => {
         if (pokemon) {
           deck.push(pokemon);
           count++;
@@ -15,4 +16,4 @@ const deckController = {
     res.json(deck);
   }
 }
-module.exports = deck;Controller
+module.exports = deckController
