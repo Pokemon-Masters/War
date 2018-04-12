@@ -18,10 +18,10 @@ const dbController = {
   getData: (req, res) => {
     const randomNums = [];
     let queryString = '';
-    for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < 41; i++) {
       randomNums.push(Math.floor(Math.random() * 807) + 1);
       queryString += `(SELECT * FROM pokemons WHERE pokedex_no = ${randomNums[i]}) `;
-      if (i !== 19) queryString += 'UNION ';
+      if (i !== 40) queryString += 'UNION ';
     }
     client.query(queryString, (err, result) => {
       if (err) console.log(err);

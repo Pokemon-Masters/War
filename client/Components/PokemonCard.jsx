@@ -8,7 +8,7 @@ const PokemonCard = (props) => {
     <div className="pokemon-card" >
       <strong>{props.pokemon.name}</strong>
       <br></br>
-      <em>{props.pokemon.number}</em>
+      <em>{'# ' + props.pokemon.number}</em>
       <br />
       
       {props.types.map((x, i) => {
@@ -16,6 +16,7 @@ const PokemonCard = (props) => {
       })
       }
       <img className="pokemon-img" src={props.pokemon.pokemonUrl} />
+      {'Level: ' + props.pokemon.level}
     </div>
   )
 }
