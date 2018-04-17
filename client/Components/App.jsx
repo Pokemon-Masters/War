@@ -4,7 +4,6 @@ import GameBoard from './GameBoard.jsx';
 class App extends Component {
   constructor() {
     super();
-
   }
 
   render() {

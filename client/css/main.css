@@ -6,7 +6,7 @@ body, html {
     text-align: center;
     vertical-align: middle;
     width: 160px;
-    height: 290px;
+    height: 330px;
     font-size: 1.5em;
     font-family: fantasy;
     font-weight: bold;
@@ -98,6 +98,13 @@ body, html {
 #scoreboard-wrapper {
     display: flex;
     justify-content: center;
+}
+
+#result-display {
+  height: 72px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
 }
 
 #winner {

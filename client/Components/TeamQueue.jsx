@@ -21,17 +21,18 @@ class TeamQueue extends Component {
       dragon: 'https://cdn.bulbagarden.net/upload/thumb/8/8a/Dragon-attack.png/20px-Dragon-attack.png',
       fairy: 'https://cdn.bulbagarden.net/upload/thumb/4/40/Fairy-attack.png/20px-Fairy-attack.png'
     }
-    this.state = {
-      activeDrags: 0,
-      deltaPosition: {
-        x: 0, y: 0
-      },
-      types: null,
-      dragX: 0,
-      dragY: 250,
-    }
-    this.handleDrag = this.handleDrag.bind(this);
-    this.onStop = this.onStop.bind(this);
+    // this.state = {
+    //   activeDrags: 0,
+    //   deltaPosition: {
+    //     x: 0, y: 0
+    //   },
+    //   types: null,
+    //   dragX: 0,
+    //   dragY: 250,
+    // }
+    // this.handleDrag = this.handleDrag.bind(this);
+    // this.onStop = this.onStop.bind(this);
+    this.getTypes = this.getTypes.bind(this);
   }
 
   getTypes (type) {
@@ -87,22 +88,22 @@ class TeamQueue extends Component {
     return result;
   }
 
-  handleDrag(e, ui) {
-    const {x, y} = this.state.deltaPosition;
-    console.log('ui',ui)
-    console.log('e', e)
-    console.log(ui.node.id)
-    this.setState({
-      deltaPosition: {
-        x: x + ui.deltaX,
-        y: y + ui.deltaY,
-      }
-    });
-  }
+  // handleDrag(e, ui) {
+  //   const {x, y} = this.state.deltaPosition;
+  //   console.log('ui',ui)
+  //   console.log('e', e)
+  //   console.log(ui.node.id)
+  //   this.setState({
+  //     deltaPosition: {
+  //       x: x + ui.deltaX,
+  //       y: y + ui.deltaY,
+  //     }
+  //   });
+  // }
   
-  onStop() {
-      this.setState({activeDrags: --this.state.activeDrags});
-  }
+  // onStop() {
+  //     this.setState({activeDrags: --this.state.activeDrags});
+  // }
 
   
   
@@ -139,26 +140,27 @@ class TeamQueue extends Component {
   
 
   render() {
-    const dragHandlers = {
-      onDrag: this.handleDrag, 
-      onStop: this.onStop,
-      axis: 'y',
-      handle: ".handle",
-      position: {x: this.state.dragX, y: this.state.dragY},
-      grid: [0, 312]
-    };
+    // const dragHandlers = {
+    //   onDrag: this.handleDrag, 
+    //   onStop: this.onStop,
+    //   axis: 'y',
+    //   handle: ".handle",
+    //   position: {x: this.state.dragX, y: this.state.dragY},
+    //   grid: [0, 312]
+    // };
     
+    // const types = (this.props.lineup.length) ? this.getTypes(this.props.lineup[0].type) : '';
     const types = this.getTypes(this.props.lineup[0].type)
 
     return (
       <div>
         <Result winState={this.props.winState} />
         <div className="team-queue" id={this.props.team}>  
-          <Draggable {...dragHandlers}>
+          {/* <Draggable {...dragHandlers}> */}
           <div className="handle">
-            <PokemonCard pokemon={this.props.lineup[0]} types={types} />
+            <PokemonCard pokemon={this.props.lineup[this.props.index]} types={types} />
           </div>
-          </Draggable>
+          {/* </Draggable> */}
         </div>
       </div>
     )
