@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 
-const sequelize = new Sequelize('postgres://udeyhfsk:vgeewt-ITqXsidtAxEZd7rBqtkPT8CZ0@baasu.db.elephantsql.com:5432/udeyhfsk');
+const sequelize = new Sequelize('postgres://sxjehgzp:xdjgcTnyYcd3kYuoNss9QfbO4P1SUVq3@stampy.db.elephantsql.com:5432/sxjehgzp');
 
 const Pokemon = sequelize.define('pokemon', {
   name: Sequelize.STRING,

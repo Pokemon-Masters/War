@@ -89,9 +89,6 @@ class TeamQueue extends Component {
 
   handleDrag(e, ui) {
     const {x, y} = this.state.deltaPosition;
-    console.log('ui',ui)
-    console.log('e', e)
-    console.log(ui.node.id)
     this.setState({
       deltaPosition: {
         x: x + ui.deltaX,
